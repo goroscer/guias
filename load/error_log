@@ -1,0 +1,4 @@
+[20-Sep-2018 08:39:53 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intelsan/remates.intelsantiago.com.ar/load/tabla.php on line 44
+[28-Sep-2018 22:35:03 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intelsan/guias.intelsantiago.com.ar/load/campo1.php on line 82
+[06-Oct-2018 13:07:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intelsan/guias.intelsantiago.com.ar/load/campo1.php on line 82
+[18-Feb-2019 13:52:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/intelsan/guias.intelsantiago.com.ar/load/campo1.php on line 82
